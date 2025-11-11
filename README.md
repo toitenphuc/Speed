@@ -101,7 +101,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Phuc710&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views">
-  <img src="https://flagcdn.com/w30/vn.png" alt="Vietnam Flag" width="30">
 </div>
 
 ---
